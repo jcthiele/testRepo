@@ -140,4 +140,4 @@ Das Benutzerhandbuch etc. ist [hier](https://jcthiele.github.io/testRepo/docs/in
 
 ### Kontakt
 
-Wenn Sie Kontakt aufnehmen wollen, Lob oder Optimierungshinweise mitteilen möchten, dann wenden Sie sich bitte mit Ihrem Anliegen an: openxrechnungtoolbox@gmx.net.
+Wenn Sie Kontakt aufnehmen wollen, Lob oder Optimierungshinweise mitteilen möchten, dann wenden Sie sich bitte mit Ihrem Anliegen an: <a href="mailto:openxrechnungtoolbox@gmx.net">openxrechnungtoolbox@gmx.net</a>.
