@@ -134,10 +134,10 @@ Zuvor hat er als wissenschaftlicher Mitarbeiter der Universität Göttingen in v
 Die OpenXRechnungToolbox ist ein Freizeitprojekt und steht in keinem direkten Zusammenhang mit dem Senator für Finanzen. 
 Als Open Source Software ist jede(r) eingeladen zur Weiterentwicklung der Software beizutragen. 
 
-### Kontakt
-
-Wenn Sie Kontakt aufnehmen wollen, Lob oder Optimierungshinweise mitteilen möchten, dann wenden Sie sich bitte mit Ihrem Anliegen an: openxrechnungtoolbox@gmx.net.
-
 ### Weitere Infos
 
 Das Benutzerhandbuch etc. ist [hier](https://jcthiele.github.io/testRepo/docs/index_neu.html "Benutzerhandbuch") zu finden.
+
+### Kontakt
+
+Wenn Sie Kontakt aufnehmen wollen, Lob oder Optimierungshinweise mitteilen möchten, dann wenden Sie sich bitte mit Ihrem Anliegen an: openxrechnungtoolbox@gmx.net.
