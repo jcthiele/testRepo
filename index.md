@@ -43,7 +43,7 @@
 	  from {opacity: .4} 
 	  to {opacity: 1}
 	}
-)
+</style>")
   
 <div class="slideshow-container">
 
