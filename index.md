@@ -1,29 +1,43 @@
 ## OpenXRechnungToolbox
   
 <div class="slideshow-container">
-
-<div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
-  <img src="img_nature_wide.jpg" style="width:100%">
-  <div class="text">Caption Text</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img src="img_snow_wide.jpg" style="width:100%">
-  <div class="text">Caption Two</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="img_mountains_wide.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
-</div>
-
+			<div class="mySlides fade">
+			  <div class="numbertext">1 / 6</div>
+			  <img src="docs/img/carousel/Oberflaeche.PNG" style="height:100%">
+			  <div class="text">Hauptfenster</div>
+			</div>
+			<div class="mySlides fade">
+			  <div class="numbertext">2 / 6</div>
+			  <img src="docs/img/carousel/Pruefbericht.PNG" style="height:100%">
+			  <div class="text">Prüfbericht</div>
+			</div>
+			<div class="mySlides fade">
+			  <div class="numbertext">3 / 6</div>
+			  <img src="docs/img/carousel/Visualisierung.PNG" style="height:100%">
+			  <div class="text">Visualisierung</div>
+			</div>
+			<div class="mySlides fade">
+			  <div class="numbertext">4 / 6</div>
+			  <img src="docs/img/carousel/VisualisierungPDF.PNG" style="height:100%">
+			  <div class="text">PDF-Visualisierung</div>
+			</div>
+			<div class="mySlides fade">
+			  <div class="numbertext">5 / 6</div>
+			  <img src="docs/img/carousel/LWID.PNG" style="height:100%">
+			  <div class="text">Leitweg-ID-Rechner/-Prüfer</div>
+			</div>
+			<div class="mySlides fade">
+			  <div class="numbertext">6 / 6</div>
+			  <img src="docs/img/carousel/Einstellungen.PNG" style="height:100%">
+			  <div class="text">Einstellungen</div>
+			</div>
 </div>
 <br>
 
 <div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
