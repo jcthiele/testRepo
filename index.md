@@ -137,3 +137,7 @@ Als Open Source Software ist jede(r) eingeladen zur Weiterentwicklung der Softwa
 ### Kontakt
 
 Wenn Sie Kontakt aufnehmen wollen, Lob oder Optimierungshinweise mitteilen möchten, dann wenden Sie sich bitte mit Ihrem Anliegen an: openxrechnungtoolbox@gmx.net.
+
+### Weitere Infos
+
+Das Benutzerhandbuch etc. ist [hier](https://jcthiele.github.io/testRepo/docs/index_neu.html "Benutzerhandbuch") zu finden.
